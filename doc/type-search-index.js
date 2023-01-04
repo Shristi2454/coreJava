@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"inheritance","l":"Cars"},{"p":"inheritance","l":"Employee"},{"p":"inheritance","l":"InheritanceDocs"},{"p":"inheritance","l":"Programmer"},{"p":"inheritance","l":"Vehicle"}];updateSearchResults();
